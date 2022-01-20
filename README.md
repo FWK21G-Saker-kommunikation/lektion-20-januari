@@ -1,1 +1,11 @@
-# lektion-20-januari
+# Lektion 20 januari
+
+## Övningar
+
+Rollhantering övning: https://gist.github.com/zocom-christoffer-wallenberg/17c63e54c859fcceca9f8917c67f48f9
+
+## Artiklar
+
+## Videor
+
+

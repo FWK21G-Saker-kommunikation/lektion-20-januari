@@ -1,0 +1,4 @@
+1. Skapa en route som heter '/api/user-accounts' som hämtar alla användarkonton i databasen med rollen user.
+2. I vår route '/api/account' lägg till så även roll skickas med i svaret till frontend.
+3. Ifall rollen är admin gör ett fetch-anrop i vår frontend till '/api/user-accounts' och visa sen alla
+användarkonton på den inloggade sidan.
